@@ -28,17 +28,17 @@ contact:
     link : "tel:8378867899"
 
   # contact item loop
-  - name : "Hari Ganjure"
+  - name : ""
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Hari Ganjure"
+  - name : ""
     icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Hari Ganjure"
+  - name : ""
     icon : "ti-skype" # icon pack : https://themify.me/themify-icons
     link : "#"
 
