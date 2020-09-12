@@ -9,7 +9,7 @@ description : "We will add our first blog soon,keep in touch."
 # post thumbnail
 image: "images/blog/post-1.jpg"
 # post author
-author: "John Doe"
+author: "Hari Ganjure"
 # taxonomy
 categories: ["Automation System"]
 tags: ["Advice", "Automation"]
@@ -19,7 +19,7 @@ type: "post"
 
 ### The standard, used since the 1500s
 
-In progress
+In progress.
 
 
 #### 1914 translation by H. Rackham
@@ -29,4 +29,4 @@ But I must explain to you how all this mistaken idea of denouncing pleasure and 
 
 #### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
 
-In progress
+In progress.

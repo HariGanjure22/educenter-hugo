@@ -9,7 +9,7 @@ description : "We will add our first blog soon,keep in touch."
 # post thumbnail
 image: "images/blog/post-2.jpg"
 # post author
-author: "Hari Ganjure"
+author: "mark dinn"
 # taxonomy
 categories: ["Education System"]
 tags: ["Education", "Automation"]
