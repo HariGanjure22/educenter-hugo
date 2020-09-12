@@ -1,4 +1,4 @@
-baseURL = "http://juniorg.netlify.com"
+baseURL = "http://juniorg.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = "educenter"
 paginate = "6"
