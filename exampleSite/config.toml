@@ -75,13 +75,13 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Kada Ashti,Beed 414202"
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
 email = "juniorgedu@gmail.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = ""
 mobile = "+918378867899"
 top_header = true
 [params.map]
