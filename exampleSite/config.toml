@@ -1,4 +1,5 @@
 baseURL = "http://juniorg.netlify.app"
+bg_image: "images/page-title.jpg"
 disableLanguages = ["fr"]
 disqusShortname = "educenter"
 paginate = "6"
