@@ -1,30 +1,17 @@
 ---
-title: "Web programming"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "In this course you will learn how to build a static website."
-# course thumbnail
-image: "images/courses/course-2.jpg"
-# taxonomy
-category: "Website Developement"
-# teacher
-teacher: "Hari-Ganjure"
-# duration
-duration : "02 Month"
-# weekly
-weekly : "03 hours"
-# course fee
-fee : "From: 2000"
-# apply url
-apply_url : "#"
-# type
-type: "course"
+title: Web programming
+date: 2019-07-06T15:27:17.000+06:00
+bg_image: images/backgrounds/page-title.jpg
+description: In this course you will learn how to build a static website.
+image: images/courses/course-2.jpg
+category: Website Developement
+teacher: Hari Ganjure
+duration: 02 Month
+weekly: 03 hours
+fee: 'From: 2000'
+apply_url: "#"
+
 ---
-
-
 ### About Course
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
