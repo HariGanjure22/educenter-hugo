@@ -1,7 +1,7 @@
 ---
 title: "Hari Ganjure"
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "exampleSite/static/images/backgrounds/page-title.jpg"
 # meta description
 description : "Software Engineer, works at IBM. 
 Bachloer in Information Technolgy from MIT Pune.
