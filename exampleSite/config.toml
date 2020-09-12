@@ -82,7 +82,7 @@ description = "This is meta description"
 email = "juniorgedu@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+8378867899"
+mobile = "+918378867899"
 top_header = true
 [params.map]
 enable = true
@@ -121,21 +121,21 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "Hari Ganjure"
 title = "facebook"
 [[params.social]]
-icon = "ti-twitter-alt"
+icon = "Hari Ganjure"
 link = "#"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "Hari Ganjure"
 title = "instagram"
 [[params.social]]
 icon = "ti-github"
 link = "#"
 title = "github"
 [[params.social]]
-icon = "ti-linkedin"
+icon = "Hari Ganjure"
 link = "#"
 title = "linkedin"
