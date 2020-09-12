@@ -5,7 +5,7 @@ bg_image: images/backgrounds/page-title.jpg
 description: In this course you will learn how to build a static website.
 image: images/courses/course-2.jpg
 category: Website Developement
-teacher: Hari Ganjure
+teacher: "Hari Ganjure"
 duration: 02 Month
 weekly: 03 hours
 fee: 'From: 2000'

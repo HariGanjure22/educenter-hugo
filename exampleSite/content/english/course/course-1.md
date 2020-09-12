@@ -11,7 +11,7 @@ image: "images/courses/course-1.jpg"
 # taxonomy
 category: "Photography"
 # teacher
-teacher: "Hari-Ganjure"
+teacher: "Hari Ganjure"
 # duration
 duration : "01 Month"
 # weekly
