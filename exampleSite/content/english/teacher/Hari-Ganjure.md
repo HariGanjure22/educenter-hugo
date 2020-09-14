@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Software Developer."
 # teacher portrait
-image: "images/teachers/prof-pic.jpg"
+image: "images/teachers/duis-rio.jpg"
 # course
 course: "Computer Science"
 # biography
