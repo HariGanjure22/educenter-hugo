@@ -8,7 +8,7 @@ description : "Software Developer."
 # teacher portrait
 image: "images/teachers/Hari.jpg"
 # course
-course: "Computer Science"
+course: "Computer"
 # biography
 bio: "Software Engineer, works at IBM. 
 Bachloer in Information Technolgy from MIT Pune.

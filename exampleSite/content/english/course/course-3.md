@@ -9,7 +9,7 @@ description : "We will teach sentences used in daily conversations."
 # course thumbnail
 image: "images/courses/course-3.jpg"
 # taxonomy
-category: "English"
+category: "Computer"
 # teacher
 teacher: "Hari Ganjure"
 # duration
