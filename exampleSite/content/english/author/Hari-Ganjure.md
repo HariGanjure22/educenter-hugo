@@ -8,7 +8,7 @@ Bachloer in Information Technolgy from MIT Pune.
 Diploma in computer Technology From Goverenment Polytechnic Solapur."
 email: "hbganjure@gmail.com"
 # portrait
-image: "exampleSite/static/images/teachers/prof-pic.jpg"
+image: "exampleSite/static/images/teachers/Hari.jpg"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "Hari Ganjure"
