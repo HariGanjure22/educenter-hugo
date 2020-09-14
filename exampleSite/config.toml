@@ -1,6 +1,6 @@
 baseURL = "http://juniorg.netlify.app"
 disableLanguages = ["fr"]
-disqusShortname = "educenter"
+disqusShortname = "JuniorG"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
