@@ -45,3 +45,4 @@ This course will get added soon.</p>
 
 ### Fees and Funding
 
+We have not finallized any fee yet we will confirm it soon.
