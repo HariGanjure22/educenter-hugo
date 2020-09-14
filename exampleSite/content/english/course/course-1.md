@@ -19,7 +19,7 @@ weekly : "03 hours"
 # course fee
 fee : "From: 1000"
 # apply url
-apply_url : "#"
+apply_url : "contact"
 # type
 type: "course"
 ---
