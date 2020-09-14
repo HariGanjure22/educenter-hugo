@@ -23,22 +23,22 @@ contact:
     link : "mailto:clarkmalik@email.com"
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "8378867899"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
     link : "tel:8378867899"
 
   # contact item loop
-  - name : ""
+  - name : "Hari Ganjure"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : ""
+  - name : "Hari Ganjure"
     icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : ""
+  - name : "Hari Ganjure"
     icon : "ti-skype" # icon pack : https://themify.me/themify-icons
     link : "#"
 
@@ -50,7 +50,7 @@ contact:
   # contact item loop
   - name : "kada,Beed"
     icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://www.google.com/maps/place/Kada,+Maharashtra+414202/@18.8939839,75.0713825,15z/data=!3m1!4b1!4m5!3m4!1s0x3bc4ac4e2453ac6f:0xac45ee381c296ac!8m2!3d18.8961089!4d75.0815557"
 
 # type
 type: "teacher"

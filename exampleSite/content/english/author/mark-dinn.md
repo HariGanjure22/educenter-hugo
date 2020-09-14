@@ -8,12 +8,12 @@ Bachloer in Information Technolgy from MIT Pune.
 Diploma in computer Technology From Goverenment Polytechnic Solapur."
 email: "hbganjure@gmail.com"
 # portrait
-image: "images/prof-pic.jpg"
+image: "images/teacher/teacher-3.jpg"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "Hari Ganjure"
+    link : "mark dinn"
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "Hari Ganjure"
+    link : "mark dinn"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "Hari Ganjure "
+    link : "mark dinn"
 ---

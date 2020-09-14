@@ -9,7 +9,7 @@ description : "Learn Basics of computer."
 # course thumbnail
 image: "images/courses/course-1.jpg"
 # taxonomy
-category: "Photography"
+category: "Computer"
 # teacher
 teacher: "Hari Ganjure"
 # duration

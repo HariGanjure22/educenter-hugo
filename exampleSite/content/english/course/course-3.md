@@ -11,7 +11,7 @@ image: "images/courses/course-3.jpg"
 # taxonomy
 category: "English"
 # teacher
-teacher: "Alex Rook"
+teacher: "Hari Ganjure"
 # duration
 duration : "01 Month"
 # weekly
