@@ -11,7 +11,7 @@ image: "images/courses/course-1.jpg"
 # taxonomy
 category: "Computer"
 # teacher
-teacher: "Hari Ganjure"
+teacher: "Clark Malik"
 # duration
 duration : "01 Month"
 # weekly
