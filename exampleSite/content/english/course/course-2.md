@@ -9,7 +9,7 @@ teacher: "Hari Ganjure"
 duration: 02 Month
 weekly: 03 hours
 fee: 'From: 2000'
-apply_url: "#"
+apply_url: "contact_us"
 
 ---
 ### About Course
